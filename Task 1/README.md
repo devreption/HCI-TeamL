@@ -18,7 +18,7 @@ Setelah Pia Wurtzbach (Filipina) dimahkotai, Steve Harvey mengambil alih acara d
 
 ## Kesalahan Desain
 
-![Kesalahan Desain](Kesalahan Desain.jpg)
+![KesalahanDesain](KesalahanDesain.jpg)
 
 Terlihat jelas pada gambar dibawah, bahwa desain kartu dibawah buruk dan sangat ambigu sehingga menyebabkan kesalahan. Karena desain kartu kurang enak dipandang dan banyak keganjilan pada kartu tersebut. Steve Harvey mengakui bahwa tulisan pemenang Miss Universe 2015 sempat tertutup oleh ibu jarinya sebab berada di bawah kartu, oleh karena itu Steve berfikir Miss Kolombia lah yang menjadi Miss Universe 2015. Steve merasa sangat bertanggung jawab atas kesalahan ini, tetapi kami Team L menilai bahwa desain yang buruk pada kartu eliminasi ini yang merupakan penyebab utama kesalahan yang membuat Miss Kolombia dipermalukan didepan jutaan penonton. <br>
 Kesalahan Disebabkan : 
@@ -36,5 +36,6 @@ Kesalahan Disebabkan :
 
 ## Revisi User Interface
 ![Developt cue card](Developt cue card.jpg)
+
 
 
