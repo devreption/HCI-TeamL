@@ -35,7 +35,11 @@ Kesalahan Disebabkan :
 - Kartu eliminasi dicetak bersamaan dengan nama pemenang
 
 ## Revisi User Interface
+  ### Desain Revisi Kartu Eliminasi Miss Universe 2015
 ![developt](developt.jpg)
+
+  ### Desain Mockup Kartu Eliminasi Miss Universe 2015 Pada Pembawa Acara <br>
+ ![steveharveymockup](steveharveymockup.jpg)
 
 
 
