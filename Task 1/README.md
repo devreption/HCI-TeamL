@@ -35,6 +35,9 @@ Kesalahan Disebabkan :
 - Kartu eliminasi dicetak bersamaan dengan nama pemenang
 
 ## Revisi User Interface
+
+Revisi user interface yang kami berikan pada kartu eliminasi Miss Universer 2015 ialah dengan menerapkan Design Principles, dengan prinsip yang _**“Memberikan ruang yang lega agar memudahkan user untuk membaca informasi”**_ <br>
+
   ### Desain Revisi Kartu Eliminasi Miss Universe 2015
 ![developt](developt.jpg)
 
