@@ -35,7 +35,7 @@ Kesalahan Disebabkan :
 - Kartu eliminasi dicetak bersamaan dengan nama pemenang
 
 ## Revisi User Interface
-![Developt cue card](Developt cue card.jpg)
+![developt](developt (1).jpg)
 
 
 
