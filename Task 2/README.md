@@ -55,6 +55,8 @@ terakhir nih kak saya boleh minta tips dan tricks nya kak untuk memulai menjadi 
 
 ## Portofolio Narasumber
 
+Link narahubung kak Rahma : https://www.linkedin.com/in/rahmaulidyaa/
+
 ![biodata](biodatanarasumber.jpg)
 
 ![portofolio](portfolkarahma.jpg)
