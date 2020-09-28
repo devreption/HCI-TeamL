@@ -55,5 +55,7 @@ terakhir nih kak saya boleh minta tips dan tricks nya kak untuk memulai menjadi 
 
 ## Portofolio Narasumber
 
+![biodata](biodatanarasumber.jpg)
 
+![portofolio](portfolkarahma.jpg)
 
