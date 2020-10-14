@@ -8,9 +8,7 @@
 
 ### ABOUT DEVELOPER : 
 
-RIFAT IMADUDIN SOFYAN <br>
-was born in Jakarta 4 February 2001 <br>
-Currently student University of Technology Malaysia
+Developer yang mewakili aplikasi Dipena pada tugas kami bernama Rifat Imadudin Sofyan, beliau merupakan seorang mahasiswa Universiti Teknologi Malaysia. Lahir pada tanggal 14 Februari tahun 2001, beliau bersama ke-enam temanya mengelola aplikasi Dipena.
 
 ### TASK 1 : <a href="https://github.com/devreption/HCI-TeamL/tree/hw2/Task1">EVALUASI APLIKASI DIPENA</a>
 ### TASK 2 : <a href="https://github.com/devreption/HCI-TeamL/tree/hw2/Task2">PENGAPLIKASIAN DESAIN TIM L</a>
