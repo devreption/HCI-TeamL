@@ -9,10 +9,10 @@
 ### ABOUT DEVELOPER : 
 
 RIFAT IMADUDIN SOFYAN <br>
-was born in Jakarta 14 February 2001 <br>
+was born in Jakarta 4 February 2001 <br>
 Currently student University of Technology Malaysia
 
-#### TASK 1 :
+#### TASK 1 : <a href="https://github.com/devreption/HCI-TeamL/tree/hw2/Task1">Tugas 1</a>
 #### TASK 2 :
 
 #### EDITING TOOLS : <a href="https://www.adobe.com/in/products/xd.html">ADOBE XD</a>
