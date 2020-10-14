@@ -7,9 +7,12 @@
 Dipena merupakan social network untuk seorang desainer, photographer, pelukis dan penggiat seni lainnya untuk kegiatan berbisnis. <br>
 Pada Aplikasi ini seorang pengguna bisa mengambil keputusan / membuat keputusan dengan seseorang ditiap _postingan_ dalam Dipena. <br>
 Jadi sesuai Dipena berharap bisa menjadi jembatan antara penggiat seni dan seorang pelanggan yang membutuhkan jasa seniman. <br>
+
 _Share what you could or take what you should and change the world._
 <br>
+
 **Whoever you are, make your mom proud** <br>
+
 ### Pertama <br>
 
 ![inkonsist_lang](inconsistlang.jpg) <br>
