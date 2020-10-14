@@ -61,6 +61,10 @@ Di Hari ke-4, kami mengadakan pertemuan virtual dengan pengembang. kami menjelas
 
 -<a href="https://youtu.be/cHwkThgny-E">Video tersebut dapat dilihat di sini.</a> <br>
 
+Pertemuan ini dilaksanakan pada hari Sabtu, 10 Oktober 2020. <br>
+
+
+
 **Penjelasan Pemanfaatan Desain Material**
 
 ![Design1](popup.jpeg) <br>
