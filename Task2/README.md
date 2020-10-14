@@ -83,6 +83,9 @@ Pertemuan ini dilaksanakan pada hari Sabtu, 10 Oktober 2020. <br>
 4. Disini kami menambahkan pemberitahuan yang muncul, untuk keluar dari akun atau batal untuk keluar dari akun.
 
 
+![Design1](save.jpeg) <br>
+5. Dibawah setiap gambar kami juga memberikan icon menyimpan gambar, untuk mempermudah pengguna melihat hasil karya seseorang tanpa harus online.
+
 
 
  
