@@ -59,6 +59,10 @@ Pertemuan ini dilaksanakan pada hari Jum'at, 9 Oktober 2020.
 # Hari 4
 Di Hari ke-4, kami mengadakan pertemuan virtual dengan pengembang. kami menjelaskan tentang mengapa desain kami diperlukan. Dan pengembang memberi kami sedikit umpan balik.
 
+-<a href="https://youtu.be/cHwkThgny-E">Video tersebut dapat dilihat di sini.</a> <br>
+
+**Penjelasan Pemanfaatan Desain Material dalam Desain Terpilih**
+
  
  
 
