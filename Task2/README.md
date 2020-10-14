@@ -61,7 +61,16 @@ Di Hari ke-4, kami mengadakan pertemuan virtual dengan pengembang. kami menjelas
 
 -<a href="https://youtu.be/cHwkThgny-E">Video tersebut dapat dilihat di sini.</a> <br>
 
-**Penjelasan Pemanfaatan Desain Material dalam Desain Terpilih**
+**Penjelasan Pemanfaatan Desain Material**
+
+![Design1](popup.jpeg) <br>
+1. Disini kami menambahkan pemberitahuan yang muncul, untuk menghapus atau membatalkan penghapusan. <br>
+
+![Design1](popcollabs.jpeg) <br>
+2. Disini kami menambahkan pemberitahuan yang muncul, untuk collabs atau membatalkan collabs. <br>
+
+
+
 
  
  
