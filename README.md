@@ -8,8 +8,8 @@
 
 ###ABOUT DEVELOPER : 
 
-RIFAT IMADUDIN SOFYAN
-was born in Jakarta 14 February 2001
+RIFAT IMADUDIN SOFYAN <br>
+was born in Jakarta 14 February 2001 <br>
 Currently student of University of Technology Malaysia
 
 #### TASK 1 :
