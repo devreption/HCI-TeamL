@@ -28,6 +28,7 @@ CHAT <br>
 
 Diskusi ini dilaksanakan pada hari Rabu, 7 Oktober 2020.
 
+
 # Hari 2
 Pada Hari ke-2, dua anggota tim kami bekerja untuk bersaing membuat desain dengan prinsip desain material <br>
 
@@ -41,6 +42,23 @@ DESIGN 2 <a href="https://www.figma.com/file/L1BS9z2kmrjPWxWAnHITs8/tugas-hci?no
 ![Design2](login2.jpeg) <br>
 
  Dilaksanakan pada hari Kamis, 8 Oktober 2020.
+ 
+ 
+ # Hari 3
+Pada Hari ke-3, kami mengadakan pertemuan virtual. Ada dua anggota tim kami yang menjelaskan tentang desain yang telah mereka buat masing-masing. Dan kami juga memilih dengan melibatkan 3 orang dari tim lain untuk memilih design mana yang bagus di gunakan. <br>
+
+-<a href="https://youtu.be/o0sdShefGB8">Video tersebut dapat dilihat di sini.</a> <br>
+ 
+ ini adalah desain yang terpilih <a href="https://xd.adobe.com/view/9ce883b9-6d9b-4605-a7aa-2f0c0b5f3c82-c9bb/">Klik di sini untuk detail desain.</a> <br>
+ 
+ ![Design1](designterpilih.jpeg) <br>
+ 
+Pertemuan ini dilaksanakan pada hari Jum'at, 9 Oktober 2020.
+
+
+# Hari 4
+Di Hari ke-4, kami mengadakan pertemuan virtual dengan pengembang. kami menjelaskan tentang mengapa desain kami diperlukan. Dan pengembang memberi kami sedikit umpan balik.
+
  
  
 
