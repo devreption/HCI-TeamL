@@ -14,6 +14,6 @@
 ### TASK 1 :
 ### TASK 2 :
 
-# EDITING TOOLS : <a href="https://www.adobe.com/in/products/xd.html">ADOBE XD</a>
+# EDITING TOOLS : <a href="https://www.adobe.com/in/products/xd.html">ADOBE XD
 
 ### ---- THANK YOU ----
