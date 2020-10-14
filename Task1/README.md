@@ -2,7 +2,10 @@
 
 ## ALASAN MENGAPA APLIKASI DIPENA TIDAK MENYENANGKAN
 <br>
-### Sekilas Tentang Dipena
+
+
+### Sekilas tentang Dipena
+
 <br>
 Dipena merupakan social network untuk seorang desainer, photographer, pelukis dan penggiat seni lainnya untuk kegiatan berbisnis. <br>
 Pada Aplikasi ini seorang pengguna bisa mengambil keputusan / membuat keputusan dengan seseorang ditiap _postingan_ dalam Dipena. <br>
