@@ -10,4 +10,6 @@ Pada halaman ini terlihat jelas bahwa developer Aplikasi Dipena tidak menerapkan
 
 #### The Second <br>
 
-![logout_button](logut.jpg) <br>
+![logout_button](logout.jpg) <br>
+
+Pada fitur _Logut Button_ ini sangat tidak nyaman menyenangkan karena ketika seorang user ingin keluar dari aplikasi ini langsung kembali pada laman login, tidak ada _pop up_ atau pun _alert_ yang berfungsi untuk meminimalisir seorang user tidak sengaja memencet tombol tersebut. Karena apabila seorang user dengan ketidaksengajaan terpencet tombol tersebut maka langsung kembali pada laman login. <br> <br>
