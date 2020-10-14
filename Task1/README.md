@@ -44,4 +44,10 @@ Pada laman ini sangat tidak nyaman untuk dilihat, karena chat bertumpuk walaupun
 
 ![notiferror](notif.jpg) <br>
 
-Pada laman notifikasi ini terdapat kontrol yang error karena seorang user sama sekali tidak mendapatkan pemberitahuan dari aplikasi apabila ada yang memngikuti akun user atau mengajak kolaborasi.
+Pada laman notifikasi ini terdapat kontrol yang error karena seorang user sama sekali tidak mendapatkan pemberitahuan dari aplikasi apabila ada yang memngikuti akun user atau mengajak kolaborasi. Ini merupakan kesalahan interaksi yang cukup fatal pada aplikasi ini, karena notifikasi merupakan bagian penting dari sebuah sistem yang ada pada _social platform_.
+<br>
+### Keenam <br>
+
+![fotodetails](handshake.jpg) <br>
+
+Ketika seorang user ingin melihat foto pengguna lain di aplikasi Dipena ini bisa dengan cara mengklik foto pada laman ekplor, maka tampilan akan seperti pada gambar diatas. Pada laman ini seorang user bisa melakukan beberapa interaksi seberti memberikan komentar pada foto atau membuat kesepakantan dengan pengguna lain dengan fitur _collabs_. Namun pada fitur _collabs_ terjadi kesalahan. Ya ketika seorang user sudah di _collabs_ dengan user lain, seharusnya ikon berjabat tangan namun terjadi kesalahan sehingga ikon tersebut tidak bertambah jumlah angka pada ikon berjabat tangan.
