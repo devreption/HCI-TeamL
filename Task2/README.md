@@ -36,3 +36,8 @@ DESIGN 1 <a href="https://xd.adobe.com/view/9ce883b9-6d9b-4605-a7aa-2f0c0b5f3c82
 ![Design1](loginn.jpeg) <br>
 
 
+DESIGN 2 <a href="https://www.figma.com/file/L1BS9z2kmrjPWxWAnHITs8/tugas-hci?node-id=15%3A27">Klik di sini untuk detail desain.</a> <br>
+
+![Design2](login2.jpeg) <br>
+
+
