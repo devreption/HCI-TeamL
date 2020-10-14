@@ -40,4 +40,8 @@ DESIGN 2 <a href="https://www.figma.com/file/L1BS9z2kmrjPWxWAnHITs8/tugas-hci?no
 
 ![Design2](login2.jpeg) <br>
 
+ Dilaksanakan pada hari Kamis, 8 Oktober 2020.
+ 
+ 
+
 
