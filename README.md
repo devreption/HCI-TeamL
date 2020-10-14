@@ -10,7 +10,7 @@
 
 RIFAT IMADUDIN SOFYAN <br>
 was born in Jakarta 14 February 2001 <br>
-Currently student of University of Technology Malaysia
+Currently student University of Technology Malaysia
 
 #### TASK 1 :
 #### TASK 2 :
