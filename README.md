@@ -1,12 +1,16 @@
 # HCI-TeamL
-# ASSIGNMENTS 1
+# ASSIGNMENTS 2
 - ARIEF RAHMAN (1313619037)
 - ARGA WIDYA SAMUDERA (1313619032)
 - MUHAMMAD ARWANI UMAR (1313619031) <br>
 
-# APLICATION : 
+# APLICATION : <a href="https://play.google.com/store/apps/details?id=com.dipena.app&hl=en_AU">DIPENA APP</a>
 
-### ABOUT DEVELOPER : <a href="https://play.google.com/store/apps/details?id=com.dipena.app&hl=en_AU">DIPENA APP</a>
+###ABOUT DEVELOPER : 
+
+RIFAT IMADUDIN SOFYAN
+was born in Jakarta 14 February 2001
+Currently student of University of Technology Malaysia
 
 #### TASK 1 :
 #### TASK 2 :
