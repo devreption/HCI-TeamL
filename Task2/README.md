@@ -1,7 +1,9 @@
 # Tugas 2:
 
 # Hari 1
-Pada hari ke-1, kami membahas tentang mengapa aplikasi mengalami masalah. Dan kami telah menemukan hal yang akan kami evaluasi. Hal tersebut adalah tentang :
+Pada hari ke-1, kami membahas tentang mengapa aplikasi mengalami masalah. Dan kami telah menemukan hal yang akan kami evaluasi. Hal tersebut adalah tentang : <br>
+
+-<a href="https://youtu.be/8dfrZmkSzxs">Video tersebut dapat dilihat di sini.</a> <br>
 
 HOME <br>
 -Bahasa yang digunakan tidak konsisten <br>
