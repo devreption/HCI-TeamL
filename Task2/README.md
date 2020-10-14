@@ -33,4 +33,6 @@ Pada Hari ke-2, dua anggota tim kami bekerja untuk bersaing membuat desain denga
 
 DESIGN 1 <br>
 
+![Design1](loginn.jpeg) <br>
+
 
