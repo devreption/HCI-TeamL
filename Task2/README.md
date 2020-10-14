@@ -1,6 +1,6 @@
 # Tugas 2:
 
-# Day 1
+# Hari 1
 Pada hari ke-1, kami membahas tentang mengapa aplikasi mengalami masalah. Dan kami telah menemukan hal yang akan kami evaluasi. Hal tersebut adalah tentang :
 
 HOME <br>
@@ -28,7 +28,7 @@ CHAT <br>
 
 Diskusi ini dilaksanakan pada hari Rabu, 7 Oktober 2020.
 
-# Day 2
+# Hari 2
 Pada Hari ke-2, dua anggota tim kami bekerja untuk bersaing membuat desain dengan prinsip desain material <br>
 
 DESIGN 1 <a href="https://xd.adobe.com/view/9ce883b9-6d9b-4605-a7aa-2f0c0b5f3c82-c9bb/">Klik di sini untuk detail desain.</a> <br>
