@@ -50,4 +50,21 @@ Pada laman notifikasi ini terdapat kontrol yang error karena seorang user sama s
 
 ![fotodetails](handshake.jpg) <br>
 
-Ketika seorang user ingin melihat foto pengguna lain di aplikasi Dipena ini bisa dengan cara mengklik foto pada laman ekplor, maka tampilan akan seperti pada gambar diatas. Pada laman ini seorang user bisa melakukan beberapa interaksi seberti memberikan komentar pada foto atau membuat kesepakantan dengan pengguna lain dengan fitur _collabs_. Namun pada fitur _collabs_ terjadi kesalahan. Ya ketika seorang user sudah di _collabs_ dengan user lain, seharusnya ikon berjabat tangan namun terjadi kesalahan sehingga ikon tersebut tidak bertambah jumlah angka pada ikon berjabat tangan.
+Ketika seorang user ingin melihat foto pengguna lain di aplikasi Dipena ini bisa dengan cara mengklik foto pada laman ekplor, maka tampilan akan seperti pada gambar diatas. Pada laman ini seorang user bisa melakukan beberapa interaksi seberti memberikan komentar pada foto atau membuat kesepakantan dengan pengguna lain dengan fitur _collabs_. Namun pada fitur _collabs_ terjadi kesalahan. Ya ketika seorang user sudah di _collabs_ dengan user lain, seharusnya ikon berjabat tangan namun terjadi kesalahan sehingga ikon tersebut tidak bertambah jumlah angka pada ikon berjabat tangan. <br>
+
+### Use Case <br>
+
+![Use_case](UseCaseDiagram1.png) <br> <br>
+
+### Activity Diagram <br> <br>
+
+![akttivity](ActivityDiagram1.png) <br> <br>
+
+### Narasi <br>
+
+Seorang pengguna mulai dari menginstal aplikasi Dipena yang sudah tersedia di Playstore. Setelah itu seorang user diminta membuat akun atau apabila sudah memiliki akun bisa langsung melakukan _Log In_. Selanjutnya seorang pengguna bisa dengan bebeas mengekplorasi fitur yang tersedia pada aplikasi Dipena. Terutama pada laman Ekslpor seorang pengguna bisa mencari sosok seniman yang sedang dibutuhkan, jika sudah mendapatkanya seorang seniman yang dirasa dibutuhkan pengguna bisa langsung saja membuat kesepatakan (**Collabs**) dengan seniman yang menjual jasanya pada aplikasi Dipena. <br>
+
+### Key Use Case <br>
+
+Berkolaborasi atau **Collabs** merupakan _key use case_ dari aplikasi Dipena. <br>
+Karena maksud dari aplikasi ini ialah menjadi penghubung antara seorang seniman dengan pelanggan. Memudahkan seseorang yang membutuhkan jasa seni dengan mencarinya pada aplikasi Dipena.
