@@ -6,11 +6,11 @@
 
 # APLICATION : 
 
-### ABOUT DEVELOPER : <a href="https://play.google.com/store/apps/details?id=com.dipena.app&hl=en_AU">DIPENA APP
+### ABOUT DEVELOPER : <a href="https://play.google.com/store/apps/details?id=com.dipena.app&hl=en_AU">DIPENA APP</a>
 
 #### TASK 1 :
 #### TASK 2 :
 
-#### EDITING TOOLS : <a href="https://www.adobe.com/in/products/xd.html">ADOBE XD
+#### EDITING TOOLS : <a href="https://www.adobe.com/in/products/xd.html">ADOBE XD</a>
 
 ### ---- THANK YOU ----
