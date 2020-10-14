@@ -4,13 +4,16 @@
 - ARGA WIDYA SAMUDERA (1313619032)
 - MUHAMMAD ARWANI UMAR (1313619031) <br>
 
-## TASK 1
-Link : https://github.com/devreption/HCI-TeamL/tree/master/Task%201
+# APLICATION : 
 
 
-## TASK 2
-Link : https://github.com/devreption/HCI-TeamL/tree/master/Task%202
+
+# ABOUT DEVELOPER
 
 
+## TASK 1 :
+## TASK 2 :
+
+# EDITING TOOLS :
 
 #### ---- THANK YOU ----
