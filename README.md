@@ -6,7 +6,7 @@
 
 # APLICATION : <a href="https://play.google.com/store/apps/details?id=com.dipena.app&hl=en_AU">DIPENA APP</a>
 
-###ABOUT DEVELOPER : 
+### ABOUT DEVELOPER : 
 
 RIFAT IMADUDIN SOFYAN <br>
 was born in Jakarta 14 February 2001 <br>
