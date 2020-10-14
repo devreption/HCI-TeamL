@@ -66,8 +66,17 @@ Di Hari ke-4, kami mengadakan pertemuan virtual dengan pengembang. kami menjelas
 ![Design1](popup.jpeg) <br>
 1. Disini kami menambahkan pemberitahuan yang muncul, untuk menghapus atau membatalkan penghapusan. <br>
 
+
 ![Design1](popcollabs.jpeg) <br>
 2. Disini kami menambahkan pemberitahuan yang muncul, untuk collabs atau membatalkan collabs. <br>
+
+
+![Design1](share.jpeg) <br>
+3. Disini kami menambahkan fitur berbagi atau share ke berbagai macam aplikasi sosial.
+
+
+![Design1](poplogout.jpeg) <br>
+4. Disini kami menambahkan pemberitahuan yang muncul, untuk keluar dari akun atau batal untuk keluar dari akun.
 
 
 
